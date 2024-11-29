@@ -1,6 +1,7 @@
 ---
 title: "A Geospatial Model of Political Ideology in California"
 format: gfm
+fig-dpi: 300
 execute: 
   echo: false
   message: false
